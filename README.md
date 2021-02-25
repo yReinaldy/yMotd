@@ -2,7 +2,7 @@
 */*
 */*
 
-#INFORMAÇÕES DO PLUGIN
+# PLUGIN INFORMATION
 
 */*
 */*
